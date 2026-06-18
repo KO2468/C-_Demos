@@ -4,8 +4,6 @@ A fully interactive Sudoku game built in **C++** using **SFML**, featuring autom
 
 Unlike traditional Sudoku solvers, this project generates playable puzzles dynamically and allows users to solve them interactively with immediate visual feedback.
 
-Developed as part of the **CodeAlpha C++ Programming Internship**.
-
 ---
 
 # ✨ Features
@@ -160,13 +158,6 @@ This project helped improve:
 
 ---
 
-# 📜 Internship Information
-
-Completed as part of the **CodeAlpha C++ Programming Internship**.
-
-This project includes the optional GUI implementation beyond the core internship requirements.
-
----
 
 ## 👨‍💻 Author
 
