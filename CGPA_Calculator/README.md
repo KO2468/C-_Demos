@@ -2,8 +2,6 @@
 
 A C++ application that calculates a student's **Semester GPA** and **Overall CGPA** based on course grades and credit hours.
 
-This project was developed as part of the **CodeAlpha C++ Programming Internship** and focuses on applying core programming concepts including data structures, user input handling, and mathematical calculations.
-
 ---
 
 # 📌 Features
@@ -140,12 +138,6 @@ While building this project, I practiced:
 - Export semester reports
 - GUI version using SFML
 - Save semester history
-
----
-
-# 📜 Internship Information
-
-Project completed as part of the **CodeAlpha C++ Programming Internship**.
 
 ---
 
