@@ -1,112 +1,118 @@
-# 🚀 CodeAlpha C++ Internship Portfolio
+# 🚀 C++ Projects Portfolio
 
-This repository contains my completed projects for the **CodeAlpha C++ Programming Internship**.
+A collection of C++ projects built to practice and demonstrate core software development concepts through practical applications.
 
-During this internship, I worked on implementing practical C++ applications while focusing on:
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- File Handling
-- Problem Solving
-- GUI Development with SFML
-- Writing maintainable and modular code
+This repository showcases implementations covering problem solving, Object-Oriented Programming (OOP), file handling, algorithms, and basic GUI development.
 
 ---
 
-# 📋 Completed Tasks
+# 📋 Projects
 
-## 🎓 Task 1 — CGPA Calculator
-A program that calculates student GPA/CGPA based on grades and credit hours.
+## 🎓 Project 1 — CGPA Calculator
+
+A C++ application that calculates GPA and CGPA based on student grades and credit hours.
 
 ### Features
-✔ Course input system  
-✔ GPA & CGPA calculation  
-✔ Credit hour handling  
-✔ Grade breakdown display  
+
+✔ Course input system
+✔ GPA & CGPA calculation
+✔ Credit hour handling
+✔ Grade breakdown display
 
 ---
 
-## 🔐 Task 2 — Login & Registration System
-A complete authentication system built with file-based storage.
+## 🔐 Project 2 — Login & Registration System
+
+A file-based authentication system demonstrating user management and persistent storage concepts.
 
 ### Features
-✔ User registration  
-✔ Login validation  
-✔ Duplicate username detection  
-✔ Persistent credential storage  
+
+✔ User registration
+✔ Login validation
+✔ Duplicate username detection
+✔ Persistent credential storage
 
 ---
 
-## 🧩 Task 3 — Sudoku Solver (Optional GUI Included)
-A Sudoku solving application using a backtracking algorithm.
+## 🧩 Project 3 — Sudoku Solver (Optional GUI Included)
+
+A Sudoku solving application built using recursive backtracking with an optional graphical interface.
 
 ### Features
-✔ Sudoku validation  
-✔ Recursive backtracking solver  
-✔ Fast solving logic  
-✔ GUI implementation using SFML  
-✔ Interactive board display  
+
+✔ Sudoku validation
+✔ Recursive backtracking solver
+✔ Efficient solving logic
+✔ GUI implementation using SFML
+✔ Interactive board display
 
 ---
 
-## 🏦 Task 4 — Banking System
-A simplified banking management application.
+## 🏦 Project 4 — Banking System
+
+A simplified banking management application focused on account operations and data organization.
 
 ### Features
-✔ Customer management  
-✔ Account operations  
-✔ Deposits & withdrawals  
-✔ Fund transfers  
-✔ Transaction history  
+
+✔ Customer management
+✔ Account operations
+✔ Deposits & withdrawals
+✔ Fund transfers
+✔ Transaction history
 
 ---
 
 # 🛠 Technologies Used
 
-| Technology | Usage |
-|------------|-------|
-| C++ | Core Programming |
-| C++ Latest Standard | Language Standard |
-| SFML | GUI Development |
-| File Handling | Persistent Storage |
-| OOP | Project Architecture |
+| Technology    | Purpose               |
+| ------------- | --------------------- |
+| C++           | Core Development      |
+| Modern C++    | Language Features     |
+| SFML          | GUI Development       |
+| File Handling | Data Persistence      |
+| OOP           | Software Architecture |
 
 ---
 
 # 📂 Repository Structure
 
 ```text
-CodeAlpha-Internship-Portfolio/
+CPP-Projects-Portfolio/
 │
 ├── P1.cpp                 # CGPA Calculator
 ├── P2.cpp                 # Login System
 ├── P3/                    # Sudoku Solver + SFML GUI
 ├── P4.cpp                 # Banking System
 │
-├── users.txt              # Stored user data
+├── users.txt              # Sample user data
 ├── build/Debug/           # Build output
 └── README.md
 ```
 
 ---
 
-# 📚 What I Learned
+# 📚 Skills Demonstrated
 
-Through this internship I improved my understanding of:
-
-- Modern C++
-- Algorithm design
-- GUI programming with SFML
-- File management
-- Debugging and testing
-- Structuring medium-sized projects
+* Object-Oriented Programming (OOP)
+* Data Structures & Algorithms
+* File Handling
+* Modular Code Design
+* GUI Development
+* Problem Solving
+* Debugging & Testing
 
 ---
 
-# 🏁 Internship Information
+# 🎯 Purpose
 
-Program: **CodeAlpha C++ Programming Internship**
+These projects were created as hands-on practice to strengthen practical C++ development skills and build experience designing small to medium-scale applications.
 
-Completed all assigned tasks including the optional GUI implementation.
+Future improvements may include:
+
+* Improved UI design
+* Enhanced validation and error handling
+* Better project modularization
+* Expanded feature sets
 
 ---
 
@@ -114,8 +120,8 @@ Completed all assigned tasks including the optional GUI implementation.
 
 **Kyrollos (KO2468)**
 
-GitHub: [@KO2468](https://github.com/KO2468)
+GitHub: github.com/KO2468
 
 ---
 
-⭐ If you found this project interesting, feel free to explore the repository.
+⭐ Feel free to explore the repository and check out the individual projects.
