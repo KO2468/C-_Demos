@@ -2,8 +2,6 @@
 
 A secure console-based authentication system built in C++ that allows users to register accounts, log in, and access a simple user dashboard.
 
-This project was developed as part of the **CodeAlpha C++ Programming Internship** and focuses on authentication logic, file handling, hashing concepts, and modular program design.
-
 ---
 
 # 📌 Features
@@ -186,11 +184,6 @@ This project helped strengthen understanding of:
 
 ---
 
-# 📜 Internship Information
-
-Project completed as part of the **CodeAlpha C++ Programming Internship**.
-
----
 
 ## 👨‍💻 Author
 
